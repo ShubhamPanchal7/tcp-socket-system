@@ -123,7 +123,7 @@ const programReq = "console.log('hello')";
 ## 📥 Clone Repository
 
 ```bash id="r9g1pl"
-git clone https://github.com/your-username/tcp-socket-system.git
+git clone https://github.com/ShubhamPanchal7/tcp-socket-system.git
 ```
 
 ---
